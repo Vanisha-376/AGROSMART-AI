@@ -1,0 +1,12 @@
+Sample,Raw Sensor Value,Estimated Soil Moisture (%),Threshold (%),Irrigation Status
+1,790,2,40,Watering Required
+2,750,9,40,Watering Required
+3,700,18,40,Watering Required
+4,650,27,40,Watering Required
+5,600,36,40,Watering Required
+6,580,40,40,Soil Moisture OK
+7,550,45,40,Soil Moisture OK
+8,500,55,40,Soil Moisture OK
+9,450,64,40,Soil Moisture OK
+10,400,73,40,Soil Moisture OK
+11,350,100,40,Soil Moisture OK
